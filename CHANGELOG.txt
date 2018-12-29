@@ -1,0 +1,25 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  NFLSTATS.IO CHANGELOG                                                                https://nflstats.io
+------------------------------------------------------------------------------------------------------------
+  ADDED                                 New feature(s)
+  CHANGED                               Changes in existing functionality
+  DEPRECATED                            Soon-to-be removed feature(s)
+  REMOVED                               Removed feature(s)
+  FIXED                                 Bug fix(es)
+  SECURITY                              Vulnerability remediation(s)
+============================================================================================================
+
+
+  VERSION: X.X.X                                                                            IN DEVELOPMENT
+------------------------------------------------------------------------------------------------------------
+* TOADD: CODE_OF_CONDUCCT               Outlines the project code of conduct, standards and enforcement   
+* TOADD: CONTRIBUTORS.rst               Outlines all past and current project contributors        
+============================================================================================================
+
+
+  VERSION: 0.0.1                                                                          DATE: 2018-12-29
+------------------------------------------------------------------------------------------------------------
+* ADDED: Initial Commit                 Created Repository
+* ADDED: LICENSE                        BSD 3-Clause License
+* ADDED: README.md                      Project Information
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
