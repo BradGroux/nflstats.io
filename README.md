@@ -16,6 +16,7 @@ nflstats.io is a website, fan community and data repository for NFL player stats
 * Bootstrap
 * PostgreSQL
 * Wagtail CMS
+* CodeRed CMS
 
 ### REQUIREMENTS
 
